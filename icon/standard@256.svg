@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="58cdn logo standard 256">
+  <circle cx="128" cy="128" r="124" fill="#1C1C1E"/>
+  <rect x="40" y="80" width="136" height="96" rx="24" fill="#F0F0F3"/>
+  <polygon points="70,112 96,128 70,144 62,136 80,128 62,120" fill="#1C1C1E"/>
+  <rect x="110" y="144" width="44" height="12" rx="6" fill="#1C1C1E"/>
+  <rect x="156" y="116" width="10" height="24" rx="5" fill="#1C1C1E"/>
+  <rect x="176" y="120" width="16" height="16" rx="8" fill="#FF4614"/>
+  <circle cx="208" cy="108" r="16" fill="#FF4614"/>
+  <circle cx="208" cy="148" r="16" fill="#FF4614"/>
+  <rect x="202" y="124" width="12" height="8" rx="4" fill="#FF4614"/>
+</svg>
